@@ -18,3 +18,8 @@ body {
    */
   /* background-image: url('./images/bg-pattern.png'); */
 }
+
+.header {
+  display: flex;
+  justify-content: space-around;
+}
